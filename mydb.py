@@ -12,4 +12,4 @@ cursor_object = database.cursor()
 # Create a database
 cursor_object.execute("CREATE DATABASE CRM")
 
-print("All Done!")
+print("All Done!")  
